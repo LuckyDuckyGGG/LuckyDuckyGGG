@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Automation+QA+engineer+(Python)&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
+<p align="center">
+  <a href="https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/README.md"><img src="https://img.shields.io/badge/-Russian-blue?style=flat-square"></a>
+</p>
+
 - 🚀  I'm working at [**AR SOFT**](https://vr-arsoft.com) company  
 
 - 📄 My resume on [**hh.ru**](https://samara.hh.ru/resume/b29ffb58ff09414fdf0039ed1f4d5135586873)  
@@ -20,5 +24,4 @@
 <img align="center" src="https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/resources/logo/selenoid.png?raw=true" width="40px" height="40px"/>
 </p>
 
-<h6 align="center">[Читать на русском](https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/README_RU.md)</h6>
 
