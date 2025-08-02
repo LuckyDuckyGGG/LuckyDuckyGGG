@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/README.md"><img src="https://img.shields.io/badge/-English-blue?style=flat-square"></a>
+  <a href="https://github.com/LuckyDuckyGGG"><img src="https://img.shields.io/badge/-English-blue?style=flat-square"></a>
 </p>
 
 - 🚀  Работаю в компании [**AR SOFT**](https://vr-arsoft.com)  
