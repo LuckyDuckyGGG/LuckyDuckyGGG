@@ -1,17 +1,15 @@
-<h1 align="center">Всем привет, я Никита </h1>
-<h3 align="center">Automation QA Engineer</h3>
+<h1 align="center">Hi there, I'm Nikita <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Automation+QA+engineer+(Python)&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
-- Я пишу автотесты на **Python** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🚀  I'm working at [**AR SOFT**](https://vr-arsoft.com) company  
 
-- В свободное время увлекаюсь **хоккеем и компьютерными играми** <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl6ZjV2aWJvMGJocjB5cGpkOGlkbDR4aDBscnN5Z3ZncmQ2b3M3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="30"> 
+- 📄 My resume on [**hh.ru**](https://samara.hh.ru/resume/b29ffb58ff09414fdf0039ed1f4d5135586873)  
 
+- 📬 You can contact me via Telegram: [**@LuckyDuckyGG**](https://t.me/luckyduckygg)  
 
-- Моё резюме на [**hh.ru**](https://samara.hh.ru/resume/b29ffb58ff09414fdf0039ed1f4d5135586873)
-
-
-- Со мной можно связаться через telegram [<img align="center" src="https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/resources/logo/tg.png?raw=true" width="30px" height="30px"/>](https://t.me/luckyduckygg)
-
-### Для создания автотестов я использую:
+### 🛠️ Tech Stack for Test Automation:  
 
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40px" height="40px"/>
