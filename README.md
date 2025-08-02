@@ -1,9 +1,14 @@
 <h1 align="center">Всем привет, я Никита </h1>
 <h3 align="center">Automation QA Engineer</h3>
 
-- Я пишу автотесты на **Python**
-- В свободное время увлекаюсь **компьютерными играми и хоккеем**
+- Я пишу автотесты на **Python** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+- В свободное время увлекаюсь **хоккеем и компьютерными играми** <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl6ZjV2aWJvMGJocjB5cGpkOGlkbDR4aDBscnN5Z3ZncmQ2b3M3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="30"> 
+
+
 - Моё резюме на [**hh.ru**](https://samara.hh.ru/resume/b29ffb58ff09414fdf0039ed1f4d5135586873)
+
+
 - Со мной можно связаться через telegram [<img align="center" src="https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/resources/logo/tg.png?raw=true" width="30px" height="30px"/>](https://t.me/luckyduckygg)
 
 ### Для создания автотестов я использую:
