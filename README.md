@@ -18,6 +18,7 @@
 <img align="center" src="https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/resources/logo/allure_report.png?raw=true" width="40px" height="40px"/>
 <img align="center" src="https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/resources/logo/selene.png?raw=true" width="40px" height="40px"/>
 <img align="center" src="https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/resources/logo/selenoid.png?raw=true" width="40px" height="40px"/>
+</p>
 
 <h6 align="center">[Читать на русском](https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/README_RU.md)</h6>
 
