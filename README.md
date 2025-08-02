@@ -19,5 +19,5 @@
 <img align="center" src="https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/resources/logo/selene.png?raw=true" width="40px" height="40px"/>
 <img align="center" src="https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/resources/logo/selenoid.png?raw=true" width="40px" height="40px"/>
 
-<h6 align="center">[Читать на русском](README_RU.md)</h6>
+<h6 align="center">[Читать на русском](https://github.com/LuckyDuckyGGG/LuckyDuckyGGG/blob/main/README_RU.md)</h6>
 
